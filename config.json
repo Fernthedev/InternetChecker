@@ -1,0 +1,16 @@
+{
+  "check_network_interfaces": {
+    "Ethernet": {
+      "ping_addresses": [
+        {
+          "ping_address": "1.1.1.1"
+        }
+      ]
+    }
+  },
+  "global_ping_addresses": [
+    {
+      "ping_address": "8.8.8.8"
+    }
+  ]
+}
